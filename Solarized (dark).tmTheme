@@ -13,11 +13,11 @@
 		<key>divider</key>
 		<string>#21213f</string><!-- base02 -->
 		<key>foreground</key>
-		<string>#586E75</string><!-- base01 -->
+		<string>#8898aa</string><!-- base01 -->
 		<key>selectionBackground</key>
 		<string>#21213f</string><!-- base02 -->
 		<key>selectionForeground</key>
-		<string>#586E75</string><!-- base01 -->
+		<string>#8898aa</string><!-- base01 -->
 	</dict>
 	<key>settings</key>
 	<array>
@@ -48,7 +48,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -70,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -244,7 +244,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1811,7 +1811,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -1885,7 +1885,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -2024,7 +2024,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -2046,7 +2046,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -2057,7 +2057,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
@@ -2068,7 +2068,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586E75</string><!-- base01 -->
+				<string>#8898aa</string><!-- base01 -->
 			</dict>
 		</dict>
 		<dict>
