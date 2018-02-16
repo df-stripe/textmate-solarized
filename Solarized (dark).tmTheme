@@ -59,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2AA198</string><!-- cyan -->
+				<string>#8feffb</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1896,7 +1896,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2AA198</string><!-- cyan -->
+				<string>#8feffb</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
@@ -1989,7 +1989,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2AA198</string><!-- cyan -->
+				<string>#8feffb</string><!-- cyan -->
 			</dict>
 		</dict>
 		<dict>
