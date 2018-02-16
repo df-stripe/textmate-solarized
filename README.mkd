@@ -1,5 +1,5 @@
 # DF up in here with solar-stripe
-[screenshot](Screen Shot 2018-02-16 at 1.22.21 PM.png)
+![screenshot](Screen Shot 2018-02-16 at 1.22.21 PM.png)
 
 Solarized Colorscheme for TextMate
 =============================
