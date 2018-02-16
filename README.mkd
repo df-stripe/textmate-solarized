@@ -1,6 +1,11 @@
 # DF up in here with solar-stripe
 ![screenshot](https://github.com/df-stripe/textmate-solarized/raw/master/Screen%20Shot%202018-02-16%20at%201.22.21%20PM.png)
 
+## What?
+
+Take the solarized color scheme, and swap in nearby colors from the [Stripe Style Guide](https://design.corp.stripe.com/web-style/#colors).
+Makes liberal use of Stripe Blue, which is definitely purple.
+
 Solarized Colorscheme for TextMate
 =============================
 
