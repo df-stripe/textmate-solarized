@@ -25,7 +25,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#002B36</string><!-- base03 -->
+				<string>#121223</string><!-- base03 -->
 				<key>caret</key>
 				<string>#819090</string><!-- (nonstandard) ~base0 -->
 				<key>foreground</key>
@@ -182,7 +182,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B58900</string><!-- yellow -->
+				<string>#d782d9</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1861,7 +1861,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B58900</string><!-- yellow -->
+				<string>#d782d9</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -1967,7 +1967,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#B58900</string><!-- yellow -->
+				<string>#d782d9</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
@@ -2129,7 +2129,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B58900</string><!-- yellow -->
+				<string>#d782d9</string><!-- yellow -->
 			</dict>
 		</dict>
 		<dict>
