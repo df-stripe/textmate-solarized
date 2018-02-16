@@ -204,7 +204,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string><!-- orange -->
+				<string>#fdbc72</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -307,7 +307,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string><!-- orange -->
+				<string>#fdbc72</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -318,7 +318,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string><!-- orange -->
+				<string>#fdbc72</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -1081,7 +1081,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CB4B16</string><!-- orange -->
+				<string>#fdbc72</string><!-- orange -->
 			</dict>
 		</dict>
 		<dict>
@@ -2153,7 +2153,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#CB4B16</string><!-- orange -->
+				<string>#fdbc72</string><!-- orange -->
 			</dict>
 		</dict>
 
